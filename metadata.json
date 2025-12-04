@@ -1,0 +1,8 @@
+{
+  "name": "chat application",
+  "description": "A sophisticated AI chat interface utilizing the latest Gemini models with streaming capabilities and multimodal support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
